@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">Bogorism</string>
+    <string name="hello">Hello,</string>
+    <string name="recommendation">Recommendations</string>
+    <string name="categories">Categories</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="wellcome">Wellcome</string>
+    <string name="sub_title_login">Login to your account</string>
+    <string name="notyet_signup">don\'t have an account yet ?</string>
+    <string name="signup">Signup</string>
+    <string name="login">Login</string>
+    <string name="sub_title_register">Signup your account</string>
+    <string name="have_account">already have an account ?</string>
+    <string name="message_validation">Enter your %1$s correctly !</string>
+    <string name="title_alert_dialog">Yeah !!</string>
+    <string name="message_alert">Account created successfully</string>
+    <string name="signup_error">Registration failed !</string>
+    <string name="title_logout">Logout</string>
+    <string name="login_error">Login error !</string>
+    <string name="account">Account</string>
+    <string name="lets_explore">Let\'s explore some interesting destinations</string>
+    <string name="title_account">Account</string>
+    <string name="title_map">Map</string>
+    <string name="title_search">Search</string>
+    <string name="location_not_found">Location Not Found</string>
+    <string name="my_loc">My Location</string>
+    <string name="search">Search</string>
+    <string name="rating">Rating :</string>
+    <string name="nature">Natural</string>
+
+    <string-array name="placename">
+        <item>Curug Cikuluwung</item>
+        <item>Curug Love</item>
+        <item>Bukit Alesano</item>
+        <item>Gunung Gede</item>
+        <item>Curug Cikaracak</item>
+        <item>Curug Putri Kencana</item>
+        <item>Curug Bidadari</item>
+        <item>Curug Cigamea</item>
+        <item>Curug Pangeran</item>
+        <item>Curug 7 Cilember</item>
+        <item>Rumah Air Resto</item>
+        <item>Rumoh Kopi Premium</item>
+        <item>Fat Bubble</item>
+        <item>Saung Kuring</item>
+        <item>Breeve Hills Resto and cafe</item>
+        <item>Masjid Agung Bogor</item>
+        <item>Masjid Raya Bogor</item>
+        <item>Masjid An Nur</item>
+        <item>Musala di Vihara Pan Kho Bio</item>
+        <item>Gereja Katedral Bogor</item>
+        <item>Devoyage Bogor (Kampung Eropa)</item>
+        <item>Taman Buah Mekarsari</item>
+        <item>The Ranch Cisarua</item>
+        <item>Jungle Fest</item>
+        <item>Kuntum Farm Field</item>
+        <item>Taman Safari Indonesia</item>
+        <item>Wisata Penangkaran Rusa Giri Jaya</item>
+        <item>Ranca Upas</item>
+    </string-array>
+
+    <string-array name="rating">
+        <item>4.4</item>
+        <item>4.6</item>
+        <item>4.3</item>
+        <item>4.4</item>
+        <item>4.7</item>
+        <item>4.5</item>
+        <item>4.1</item>
+        <item>4.6</item>
+        <item>4.6</item>
+        <item>4.5</item>
+        <item>4.5</item>
+        <item>4.4</item>
+        <item>4.5</item>
+        <item>4.5</item>
+        <item>4.5</item>
+        <item>4.4</item>
+        <item>4.5</item>
+        <item>4.6</item>
+        <item>4.8</item>
+        <item>4.4</item>
+        <item>4.1</item>
+        <item>4.5</item>
+        <item>4.5</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>4.7</item>
+        <item>4.1</item>
+        <item>4.5</item>
+    </string-array>
+
+
+    <string-array name="gambar">
+        <item>@drawable/curug1</item>
+        <item>@drawable/curug2</item>
+        <item>@drawable/curug3</item>
+        <item>@drawable/curug4</item>
+        <item>@drawable/curug5</item>
+        <item>@drawable/curug6</item>
+        <item>@drawable/curug7</item>
+        <item>@drawable/curug8</item>
+        <item>@drawable/curug9</item>
+        <item>@drawable/curug10</item>
+        <item>@drawable/food1</item>
+        <item>@drawable/food2</item>
+        <item>@drawable/food3</item>
+        <item>@drawable/food4</item>
+        <item>@drawable/food5</item>
+        <item>@drawable/religion1</item>
+        <item>@drawable/religion2</item>
+        <item>@drawable/religion3</item>
+        <item>@drawable/religion4</item>
+        <item>@drawable/religion5</item>
+        <item>@drawable/park1</item>
+        <item>@drawable/park2</item>
+        <item>@drawable/park3</item>
+        <item>@drawable/park4</item>
+        <item>@drawable/park5</item>
+        <item>@drawable/zoo1</item>
+        <item>@drawable/zoo2</item>
+        <item>@drawable/zoo3</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>A tourist spot that serves 2 waterfalls located in Suka Asih Village Waterfall</item>
+        <item>This waterfall has a water flow that resembles the shape of a heart because of the rocks that split in the middle of the flow</item>
+        <item>The hill in Cipelang Village  which is located at an altitude  allows tourists to see the whole city of Bogor</item>
+        <item>It is one of the best-selling climbing spots because the location from the peak is close to Jakarta and Bandung  so many workers are refreshing</item>
+        <item>The waterfall which has 2 waterfalls as high as 20 meters and 40 meters has a fairly swift and clear flow so that visitors can enjoy the freshness of bathing under the splashing water</item>
+        <item>Curug Putri Kencana is a waterfall with a height of approximately 7 meters. This waterfall is surrounded by high rock walls and wild forests. The water is famous for its blue-green color and very clear. The sound of various wild animals such as birdsong adorns this area  making anyone who comes feel at one with nature</item>
+        <item>This waterfall has a height of about 40-75 meters with a width of 7 meters. In the past  it was known as Curug Bojong Koneng</item>
+        <item>The two waterfalls are located next to each other and are very beautiful. Curug Cigamea is located in the Mount Salak Endah Tourism Area within the Mount Halimun Salak National Park (TNGHS)</item>
+        <item>This waterfall with a height of about 6 meters is located in the upper reaches of the Mount Salak spring. The water is very clear with the reflection of bluish green light</item>
+        <item> Curug Cilember which has seven waterfalls in it is one of the popular tourist destinations from Bogor. This place offers nature recreation and other activities that are friendly for all ages </item>
+        <item>Provide varity of fish dish, tilapia,  squid and shrimp. also equipped with exciting games</item>
+        <item>even though the name is rumoh kupi premium, apart from coffe here you will be spoiledby various typical dishes from serambi mekkah which are rich in spices and full of flavor.</item>
+        <item>provides various types of sweet foods such as waffles cakes coffee tea and others</item>
+        <item>The concept of Lesehan in Saung makes the atmosphere in Saung Kuring very comfortable plus delicious food adds to the attraction</item>
+        <item>Just Breeve Hills and Cafe</item>
+        <item>The mosque  which is located right in the middle of Pasar Anyar  is a mosque that is never empty of visitors  either on weekdays or on religious days such as Ramadan</item>
+        <item>The mosque  which is located not far from the entrance of the Jagorawi Toll Road  is a mosque that is quite magnificent with all the facilities that can be used</item>
+        <item>This mosque does not look as grand as other mosques but this mosque has its uniqueness  namely that there is a country-style atmosphere in the Middle East</item>
+        <item>the location is around Babakan Central Bogor District. Many agree that this prayer room is a tangible form of representation of tolerance between religious communities in Bogor</item>
+        <item>Bogor Cathedral Church has a building area of more than 1200 square meters. The architectural style of the church looks classic with a geometric impression. This is a Dutch heritage church that is still preserved in its shape</item>
+        <item>Enjoy the european atmosphere with cheap budget without the need to go abroad"</item>
+        <item>playing among the fruits trees with the family where there are various kinds of fruits and plant</item>
+        <item>Cowboy-themed playground with cool mountain air, complete with castle and flower plants</item>
+        <item>theme park with a lifestyle concept that offers a beautiful natural atmosphere even though it is in the middle of the city</item>
+        <item>Kuntum Farm Field is a place to turn your children into happy shepherds</item>
+        <item>go on a safari to see the animals in their natural habitat</item>
+        <item>spend time playing and joking with the adorable deer stag</item>
+        <item>Pose with cute reindeer deer here and explore the nature tours that have recently become popular</item>
+    </string-array>
+
+
+
+</resources>
